@@ -1,5 +1,5 @@
 /*background color and trying to remove dead space around element*/
-header {
+header, footer {
   margin: 0px;
   padding: 0px;
   height: 70px;
@@ -23,6 +23,14 @@ body {
   margin: 0px;
   padding: 0px;
   text-align: center;
+}
+
+.footer {
+  font-family: "Century Gothic", sans-serif;
+  color: #A9D6E5;
+  margin: 0px;
+  padding: 0px;
+  text-align: center;  
 }
 
 img {
