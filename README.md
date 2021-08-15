@@ -1,2 +1,2 @@
-# personal-portfolo
+# personal-portfolio
 First personal portfolio page
